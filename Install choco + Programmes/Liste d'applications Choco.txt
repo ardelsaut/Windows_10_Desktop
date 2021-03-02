@@ -44,5 +44,6 @@ choco install Vivaldi
 choco install leagueoflegends
 choco install battle.net
 choco install steam-client
+choco install QTTabBar
 
 choco feature disable -n=allowGlobalConfirmation
